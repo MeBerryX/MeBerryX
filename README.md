@@ -1,5 +1,4 @@
 ### Hi there 👋
-Computer Science Student based in Germany 😎
 
 <!--
 **tBerryX/tBerryX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
